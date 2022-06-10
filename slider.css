@@ -3,7 +3,9 @@
     nav-index: -1;
     width: 1345px;
     height: 600px;
-    overflow: hidden;
+    overflow:hidden;
+    justify-content:space-evenly;
+    align-items: center;
 }
 #sliderBox
 {
